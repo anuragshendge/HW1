@@ -1,0 +1,14 @@
+{
+
+	"name": "ashendg_devopsHW1",
+	"Version":"1.0.0",
+
+	"dependencies":{
+
+	 "aws-sdk": "*",
+	 "fs":"*",
+	 "needle":"*"		
+
+	}	
+
+}
