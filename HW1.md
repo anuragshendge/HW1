@@ -13,3 +13,6 @@ Developers can have more control over the allocated resources via the API calls.
 >#### The code and ansible-playbook are availaible in this repo.
 
 
+##Quick Link
+[Screencast](https://www.youtube.com/watch?v=4m_FtVsSZJg)
+
