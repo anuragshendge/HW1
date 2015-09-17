@@ -6,7 +6,6 @@
 	"dependencies":{
 
 	 "aws-sdk": "*",
-	 "fs":"*",
 	 "needle":"*"		
 
 	}	
